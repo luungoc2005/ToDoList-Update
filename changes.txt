@@ -1,0 +1,8 @@
+- Make compatible with jQuery 3 (original version is only compatible with jQuery 1.1)
+- Added Owner field
+- Make task stays on top when dragged
+- Change text color for overdue tasks
+- CSS style tweaks, description can have multiple lines
+
+Pending:
+- Ordering? (requires array rearranging - js)
